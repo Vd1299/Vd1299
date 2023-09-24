@@ -1,5 +1,5 @@
 # 💫 About Me:
-🧑‍💻Grad Student- CSUF, Computer Science<br><br>📌 Open for new Entry-Level full-time opportunities<br><br>💡 I'm into Software Development and Data Engineering<br><br>📱 I have worked with Databases, Algorithms, Software Development, Application Development and Machine Learning<br><br>📖 My primary skills include Python, SQL, JavaScript and AWS<br><br>☁️ Familiar with AWS and Heroku<br><br>👻 I'm into Anime's
+🧑‍💻Grad Student- CSUF, Computer Science<br><br>📌 Open for new Entry-Level full-time opportunities<br><br>💡 I'm into Software Development and Data Engineering<br><br>📱 I have worked with Databases, Algorithms, Software Development, Application Development and Machine Learning<br><br>📖 My primary skills include Python, SQL, JavaScript, Agile and SDLC<br><br>☁️ Familiar with AWS and Heroku<br><br>👻 I'm into Anime's
 
 
 ## 🌐 Lets Connect:
