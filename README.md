@@ -1,5 +1,5 @@
 # 💫 About Me:
-🧑‍💻Masters Graduate- CSUF, Computer Science<br><br>📌 Open for new Entry-Level full-time opportunities<br><br>💡 I'm into Software Engineering and I am a Data Entusiast <br><br>📱 Experience in working with Databases(PostgreSQL, MS SQL, MySQL, MongoDB), Algorithms, Software Development, Application Development and Machine Learning<br><br>📖 My primary skills include Python (Django, Data Manipulation, Flask, ML), SQL, JavaScript(Node, React), Software Development, Data Analysis, and Agile<br><br>☁️ Experienced in AWS and Heroku clouds<br><br>👻 I'm into Anime's
+🧑‍💻Masters Graduate- CSUF, Computer Science<br><br>📌 Open for new Entry-Level full-time opportunities<br><br>💡 I'm into Software Engineering and Data Eningeering <br><br>📱 Experience in working with Databases(PostgreSQL, MS SQL, MySQL, MongoDB), Algorithms, Software Development, Application Development and Machine Learning<br><br>📖 My primary skills include Python (Django, Data Manipulation, Flask, ML), SQL, JavaScript(Node, React), Software Development, Data Analysis, and Agile<br><br>☁️ Experienced in AWS and Heroku clouds<br><br>👻 I'm into Anime's
 
 
 ## 🌐 Lets Connect:
