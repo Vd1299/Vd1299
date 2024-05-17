@@ -1,5 +1,5 @@
 # 💫 About Me:
-🧑‍💻Masters Graduate- CSUF, Computer Science<br><br>📌 Open for new Entry-Level full-time opportunities<br><br>💡 I'm into Data Eningeering, Data Analysis and BI Engineering<br><br>📱 Expert in Python, SQL, ETL, Airflow, Spark, Kafka, Tableau, Power BI and many more.<br><br>📖 Collavorative, Team oriented, Agile, Flexible attitude with ability to make data drive decsions by extracting meaningful insights.<br><br>☁️ Experienced in AWS and Heroku clouds<br><br>👻 I'm into Anime's
+🧑‍💻Masters Graduate- CSUF, Computer Science<br><br>📌 Open for new Entry-Level full-time opportunities<br><br>💡 I'm into Data Eningeering, Data Analysis and BI Engineering<br><br>📱 Expert in Python, SQL, ETL, Airflow, Spark, Kafka, Tableau, Power BI and many more.<br><br>📖 Collavorative, Team oriented, Agile and Adaptive attitude with ability to make data drive decsions by extracting meaningful insights.<br><br>☁️ Experienced in AWS and Heroku clouds<br><br>👻 I'm into Anime's
 
 
 ## 🌐 Lets Connect:
