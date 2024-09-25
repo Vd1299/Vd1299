@@ -4,7 +4,7 @@
 
 ## 🌐 Lets Connect:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/vishvesh-dumbre-456756197) 
-![Portfolio](https://img.shields.io/badge/Portfolio-brightgreen?link=https%3A%2F%2Fvishveshdumbre.netlify.app%2F)
+https://vishveshdumbre.netlify.app/
 
 
 
