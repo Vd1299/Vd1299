@@ -1,6 +1,7 @@
 # 💫 Welcome to My GitHub!
 
-![banner](https://source.unsplash.com/1600x400/?data,analytics)
+![Untitled](https://github.com/user-attachments/assets/3af6f3b2-35c7-40ab-a1ae-2d8787ce52f2)
+
 
 ## 👋 About Me
 <p>I’m on a never-ending adventure through the magical world of data, where every line of code feels like a plot twist in the coolest sci-fi movie ever. With over 2+ years of experience, whether I’m crafting algorithms or brewing data pipelines, I do it with a spark of creativity and a dash of curiosity. I’m all about solving complex problems, but don’t let that fool you—there’s always time for a good laugh or an impromptu brainstorming session. Welcome to my corner of the digital world, where data is the new spellbook and I’m here to wield it with a wave of creativity and a sprinkle of logic. <br></br><strong>Specialty?</strong> Oh, I’ve got that covered: transforming raw data into game-changing solutions with a smile. If you're ready for an innovative ride, I’m the data wizard you want by your side!</p>
