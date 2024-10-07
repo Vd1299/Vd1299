@@ -25,7 +25,7 @@
 ![Seaborn](https://img.shields.io/badge/Seaborn-%234C6EF5.svg?logo=seaborn&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23384D54.svg?logo=matplotlib&logoColor=white)
 ![Tableau](https://img.shields.io/badge/Tableau-%2300599C.svg?logo=tableau&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811.svg?logo=powerbi&logoColor=black&style=flat-square)
 ![SSRS](https://img.shields.io/badge/SSRS-%2320232a.svg?logoColor=white)
 
 ### 🗄️ **Databases and Data Integration**  
@@ -37,15 +37,26 @@
 ![ETL](https://img.shields.io/badge/ETL-%2320232a.svg?logoColor=white)
 ![SSIS](https://img.shields.io/badge/SSIS-%2320232a.svg?logoColor=white)
 ![Airflow](https://img.shields.io/badge/Airflow-%2320232a.svg?logo=apache-airflow&logoColor=017CEE)
+![ELT](https://img.shields.io/badge/ELT-%2320232a.svg?logoColor=white)
 
 ### ☁️ **Cloud**  
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?logo=amazon-aws&logoColor=white)
 ![Heroku](https://img.shields.io/badge/Heroku-%23430098.svg?logo=heroku&logoColor=white)
 
+### 🧠 **Machine Learning**
+![Scikit-learn](https://img.shields.io/badge/Scikit%20Learn-%23F7931E.svg?logo=scikit-learn&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-%23F37626.svg?logo=jupyter&logoColor=white)
+![NLP](https://img.shields.io/badge/NLP-%2320232a.svg?logoColor=white)
+![Regression](https://img.shields.io/badge/Regression-%2300f.svg?logoColor=white)
+![Classification](https://img.shields.io/badge/Classification-%2320232a.svg?logoColor=white)
+![LLM](https://img.shields.io/badge/LLM-%23000.svg?logo=OpenAI&logoColor=white)
+
 ### 🔧 **Other Tools**  
+![Node.js](https://img.shields.io/badge/Node.js-%23339933.svg?logo=node-dot-js&logoColor=white)
+![React](https://img.shields.io/badge/React-%2320232a.svg?logo=react&logoColor=61DAFB)
+![Django](https://img.shields.io/badge/Django-%23092E20.svg?logo=django&logoColor=white)
 ![Excel](https://img.shields.io/badge/Excel-%23217346.svg?logo=microsoft-excel&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-%23F05032.svg?logo=git&logoColor=white)
-![Scikit-learn](https://img.shields.io/badge/Scikit%20Learn-%23F7931E.svg?logo=scikit-learn&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-%232496ED.svg?logo=docker&logoColor=white)
 ![Databricks](https://img.shields.io/badge/Databricks-%23FF3621.svg?logo=databricks&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-%23007ACC.svg?logo=visual-studio-code&logoColor=white)
@@ -62,10 +73,6 @@
 ---
 
 > *"Data is the new oil, and I’m here to extract its true value!"* 🚀
-
-
-
-
 
 
 
