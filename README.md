@@ -1,5 +1,3 @@
-# 💫 Welcome to My GitHub!
-
 <img src="https://github.com/user-attachments/assets/3af6f3b2-35c7-40ab-a1ae-2d8787ce52f2" alt="Banner" style="width: 100%; height: 50%;"/>
 
 
