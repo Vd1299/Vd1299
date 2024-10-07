@@ -1,6 +1,7 @@
 # 💫 Welcome to My GitHub!
 
-![banner](https://images.unsplash.com/photo-1525943834641-bc3a14bcdc3f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwzNjUyOXwwfDF8c2VhcmNofDR8fGRhdGF8fDB8fHx8MTY4MTM4NzE5Mw&ixlib=rb-1.2.1&q=80&w=1080) 
+![banner](https://images.unsplash.com/photo-1525943834641-bc3a14bcdc3f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwzNjUyOXwwfDF8c2VhcmNofDJ8fGRhdGF8ZW58MHx8fHwxNjgxNzgzOTg3&ixlib=rb-1.2.1&q=80&w=1080)
+
 
 ## 👋 About Me
 <p>I’m on a never-ending adventure through the magical world of data, where every line of code feels like a plot twist in the coolest sci-fi movie ever. With over 2+ years of experience, whether I’m crafting algorithms or brewing data pipelines, I do it with a spark of creativity and a dash of curiosity. I’m all about solving complex problems, but don’t let that fool you—there’s always time for a good laugh or an impromptu brainstorming session. Welcome to my corner of the digital world, where data is the new spellbook and I’m here to wield it with a wave of creativity and a sprinkle of logic. <br></br><strong>Specialty?</strong> Oh, I’ve got that covered: transforming raw data into game-changing solutions with a smile. If you're ready for an innovative ride, I’m the data wizard you want by your side!</p>
