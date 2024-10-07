@@ -78,4 +78,4 @@
 
 
 
-<img src="https://github.com/Vd1299/Vd1299/blob/main/GIF.gif" width="250" />
+<img src="https://github.com/Vd1299/Vd1299/blob/main/GIF.gif" width="100%" />
