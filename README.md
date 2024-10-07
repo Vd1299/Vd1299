@@ -1,6 +1,6 @@
 # 💫 Welcome to My GitHub!
 
-![banner](https://images.unsplash.com/photo-1525943834641-bc3a14bcdc3f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwzNjUyOXwwfDF8c2VhcmNofDJ8fGRhdGF8ZW58MHx8fHwxNjgxNzgzOTg3&ixlib=rb-1.2.1&q=80&w=1080)
+![banner](https://images.unsplash.com/photo-1581093588397-b8ab118c7f5f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwzNjUyOXwwfDF8c2VhcmNofDJ8fGRhdGF8ZW58MHx8fHwxNjg0MjY1NzA0&ixlib=rb-1.2.1&q=80&w=1080)
 
 
 ## 👋 About Me
