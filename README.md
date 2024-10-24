@@ -49,6 +49,9 @@
 ![Regression](https://img.shields.io/badge/Regression-%2300f.svg?logoColor=white)
 ![Classification](https://img.shields.io/badge/Classification-%2320232a.svg?logoColor=white)
 ![LLM](https://img.shields.io/badge/LLM-%23000.svg?logo=OpenAI&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?logo=TensorFlow&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-%235C3EE8.svg?logo=opencv&logoColor=white)
+
 
 ### 🔧 **Other Tools**  
 ![Node.js](https://img.shields.io/badge/Node.js-%23339933.svg?logo=node-dot-js&logoColor=white)
