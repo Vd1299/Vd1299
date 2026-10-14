@@ -64,7 +64,6 @@ Off the keyboard, I'm a Cal State Fullerton CS grad based in sunny **Los Angeles
 <img src="https://img.shields.io/badge/Azure%20DevOps-0078D7?style=flat-square&logo=azuredevops&logoColor=white"/>
 <img src="https://img.shields.io/badge/Puppet-FFAE1A?style=flat-square&logo=puppet&logoColor=black"/>
 <img src="https://img.shields.io/badge/Splunk-000000?style=flat-square&logo=splunk&logoColor=white"/>
-<img src="https://img.shields.io/badge/CloudWatch-FF4F8B?style=flat-square&logo=amazoncloudwatch&logoColor=white"/>
 
 **🤖 AI**<br/>
 <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white"/>
