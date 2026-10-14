@@ -16,11 +16,21 @@
 
 I'm a software and data engineer who enjoys the plumbing most people never see: the pipelines, services and automation that keep everything else running. I like taking something slow, manual or fragile and turning it into something that just works.
 
-- 🌴 Based in **Los Angeles**
-- 🎓 Computer Science grad from **Cal State Fullerton**
-- 🌱 Currently exploring **LLM tooling, event-driven systems and cloud-native design**
-- 💡 I believe good engineering is mostly good naming, good logging and good questions
-- 🤝 Always happy to talk data architecture, backend design or a fun side project
+**🎯 Specialties**
+- 🔄 **Data Engineering:** batch and streaming pipelines, orchestration, data quality
+- 📐 **Analytics Engineering:** data modeling, dbt transformations, warehouse design
+- ⚙️ **Backend Engineering:** APIs, services and async workloads
+- 💻 **Software Engineering:** full-stack apps, automation and CI/CD
+
+**🌱 Currently Exploring**
+- RAG pipelines, embeddings and vector databases
+- AI agents, tool calling and MCP servers
+- LLM evaluation, guardrails and observability
+- Real-time streaming and data contracts
+
+**📍 Based in Los Angeles** · 🎓 CS grad from **Cal State Fullerton**
+
+**🌍 Open to relocate:** 🇺🇸 United States · 🇪🇺 Europe · 🇦🇪 UAE · 🇸🇬 Singapore · 🇦🇺 Australia
 
 </td>
 <td width="40%" align="center" valign="middle">
@@ -33,25 +43,48 @@ I'm a software and data engineer who enjoys the plumbing most people never see: 
 
 ### 🛠️ Tech Stack
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=py,ts,js,cs,dotnet,bash,react,nodejs,django,fastapi,flask&perline=11" alt="Languages and frameworks"/>
-  <br/><br/>
-  <img src="https://skillicons.dev/icons?i=aws,azure,docker,kubernetes,kafka,postgres,mysql,mongodb,gitlab,git,linux&perline=11" alt="Cloud, data and DevOps"/>
-</p>
+**💻 Languages**<br/>
+<img src="https://skillicons.dev/icons?i=py,ts,js,cs,bash&perline=10" alt="Languages"/>
+<img src="https://img.shields.io/badge/SQL-336791?style=flat-square&logo=postgresql&logoColor=white"/>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Snowflake-29B5E8?style=flat-square&logo=snowflake&logoColor=white"/>
-  <img src="https://img.shields.io/badge/dbt-FF694B?style=flat-square&logo=dbt&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Apache%20Airflow-017CEE?style=flat-square&logo=apacheairflow&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Apache%20Spark-E25A1C?style=flat-square&logo=apachespark&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Databricks-FF3621?style=flat-square&logo=databricks&logoColor=white"/>
-  <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white"/>
-  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white"/>
-  <img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Claude-D97757?style=flat-square&logo=anthropic&logoColor=white"/>
-</p>
+**⚙️ Backend & Frameworks**<br/>
+<img src="https://skillicons.dev/icons?i=fastapi,django,flask,nodejs,react,dotnet&perline=10" alt="Backend and frameworks"/>
+
+**🔄 Data Engineering & Analytics**<br/>
+<img src="https://skillicons.dev/icons?i=kafka&perline=10" alt="Kafka"/>
+<img src="https://img.shields.io/badge/Snowflake-29B5E8?style=flat-square&logo=snowflake&logoColor=white"/>
+<img src="https://img.shields.io/badge/dbt-FF694B?style=flat-square&logo=dbt&logoColor=white"/>
+<img src="https://img.shields.io/badge/Apache%20Airflow-017CEE?style=flat-square&logo=apacheairflow&logoColor=white"/>
+<img src="https://img.shields.io/badge/Apache%20Spark-E25A1C?style=flat-square&logo=apachespark&logoColor=white"/>
+<img src="https://img.shields.io/badge/Databricks-FF3621?style=flat-square&logo=databricks&logoColor=white"/>
+<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black"/>
+<img src="https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white"/>
+
+**🗄️ Databases**<br/>
+<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb&perline=10" alt="Databases"/>
+<img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white"/>
+<img src="https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=oracle&logoColor=white"/>
+<img src="https://img.shields.io/badge/Redshift-8C4FFF?style=flat-square&logo=amazonredshift&logoColor=white"/>
+
+**☁️ Cloud & Infrastructure**<br/>
+<img src="https://skillicons.dev/icons?i=aws,azure,docker,kubernetes,linux&perline=10" alt="Cloud and infrastructure"/>
+
+**🚀 CI/CD, Logging & Observability**<br/>
+<img src="https://skillicons.dev/icons?i=gitlab,git&perline=10" alt="GitLab and Git"/>
+<img src="https://img.shields.io/badge/GitLab%20CI%2FCD-FC6D26?style=flat-square&logo=gitlab&logoColor=white"/>
+<img src="https://img.shields.io/badge/Azure%20DevOps-0078D7?style=flat-square&logo=azuredevops&logoColor=white"/>
+<img src="https://img.shields.io/badge/Puppet-FFAE1A?style=flat-square&logo=puppet&logoColor=black"/>
+<img src="https://img.shields.io/badge/Splunk-000000?style=flat-square&logo=splunk&logoColor=white"/>
+<img src="https://img.shields.io/badge/CloudWatch-FF4F8B?style=flat-square&logo=amazoncloudwatch&logoColor=white"/>
+
+**🤖 AI & LLMs**<br/>
+<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white"/>
+<img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white"/>
+<img src="https://img.shields.io/badge/Claude-D97757?style=flat-square&logo=anthropic&logoColor=white"/>
+<img src="https://img.shields.io/badge/Pinecone-000000?style=flat-square&logo=pinecone&logoColor=white"/>
+<img src="https://img.shields.io/badge/RAG-4B8BBE?style=flat-square"/>
+<img src="https://img.shields.io/badge/MCP-555555?style=flat-square"/>
+<img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white"/>
 
 ---
 
